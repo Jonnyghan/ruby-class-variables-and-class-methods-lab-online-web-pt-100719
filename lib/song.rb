@@ -5,7 +5,7 @@ class Song
    @@count += 1 
  end
  
- 
+ @@genres
   
  
 end
