@@ -10,7 +10,7 @@ class Song
   
 
   
-  def genres
+  def self.genres
     @@genres.uniq
   end
   
