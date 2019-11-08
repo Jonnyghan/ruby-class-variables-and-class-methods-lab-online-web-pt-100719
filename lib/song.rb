@@ -6,10 +6,11 @@ class Song
  end
  
  @@genres = []
+ @@artists
  
  def initialize (name,artist,genre)
    name = @name
-   artist= @artist
+   a
    genre= @genre
    
  end
